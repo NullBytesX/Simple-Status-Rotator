@@ -1,0 +1,13 @@
+{
+    "token": "token",
+    "status_list": [
+        "Breachr.Org",
+        "Breachr On Top",
+        "Breachr Top",
+        "NullBytes",
+        "Pharoah"
+    ],
+    "clear_on": true,
+    "clear_freq": 5,
+    "seg": 3
+}
